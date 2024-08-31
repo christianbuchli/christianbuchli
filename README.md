@@ -1,4 +1,4 @@
-<h1>Hi, I'm Christian! <br/><a href="https://github.com/christianbuchli"><a href="www.linkedin.com/in/christianbuchli">Cybersecurity Student</a>
+<h1>Hi, I'm Christian! <br/><a href="https://github.com/christianbuchli"><b> Cybersecurity Student <b>
 
 <h2> Cybersecurity Projects:</h2>
 

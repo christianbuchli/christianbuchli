@@ -2,7 +2,11 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <b> [To be updated] <b>
+- <b> Vulnerability Scanning Lab: <b>
+<b> [Write Up](https://github.com/christianbuchli/VulnLab)
+
+- <b> Microsoft Azure SIEM and Geolocation Map Project: <b>
+<b> [Write Up](https://github.com/christianbuchli/AzureSIEM)
 
 <h2> Connect with me:</h2>
 

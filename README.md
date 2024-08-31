@@ -1,6 +1,7 @@
-<h1>Hi, I'm Christian! <br/><a href="https://github.com/christianbuchli"><b> Cybersecurity Student <b>
+<h1>Hi, I'm Christian! 
 
-<h2> Cybersecurity Projects:</h2>
+<b> Cybersecurity Student <b>
+<h2> <br/><a href="https://github.com/christianbuchli"> Cybersecurity Projects:</h2>
 
 - <b> Vulnerability Scanning & Exploitation Lab: <b>
 <b> [Write Up](https://github.com/christianbuchli/VulnLab)

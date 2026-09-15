@@ -1,6 +1,6 @@
 <h1>Hi, I'm Christian! 
 
-<b> Cybersecurity Student <b>
+<b> Cybersecurity Graduate <b>
 <h2> <br/><a href="https://github.com/christianbuchli"> Cybersecurity Projects:</h2>
 
 - <b> Wazuh SIEM & Active Response Lab : <b>

@@ -3,6 +3,9 @@
 <b> Cybersecurity Student <b>
 <h2> <br/><a href="https://github.com/christianbuchli"> Cybersecurity Projects:</h2>
 
+- <b> Wazuh SIEM & Active Response Lab : <b>
+<b> [Write Up](https://github.com/christianbuchli/Wazuh-SOC-Lab)
+
 - <b> Vulnerability Scanning & Exploitation Lab: <b>
 <b> [Write Up](https://github.com/christianbuchli/VulnLab)
 
